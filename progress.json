@@ -341,10 +341,13 @@
     337,
     338,
     339,
-    340
+    340,
+    341,
+    342,
+    343
   ],
   "failed": [],
   "inProgress": [],
-  "lastUpdate": "2026-03-10T14:43:52.410Z",
+  "lastUpdate": "2026-03-10T14:44:03.265Z",
   "repo": "vmlinks-posts-backup"
 }
